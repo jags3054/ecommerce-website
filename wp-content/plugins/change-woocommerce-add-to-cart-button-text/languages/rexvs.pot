@@ -1,0 +1,227 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Rex Variation Swatches for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-14 06:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: admin/class-rex-variation-swatches-for-woocommerce-admin-product.php:137
+msgid "Add New"
+msgstr ""
+
+#: admin/class-rex-variation-swatches-for-woocommerce-admin-product.php:48
+msgid "Add new"
+msgstr ""
+
+#: admin/class-rex-variation-swatches-for-woocommerce-admin-product.php:114
+msgid "Add new term"
+msgstr ""
+
+#: admin/class-rex-variation-swatches-for-woocommerce-admin-product.php:91
+msgid "Added successfully"
+msgstr ""
+
+#: admin/partials/rexvs_settings.php:25
+msgid "Advanced"
+msgstr ""
+
+#: admin/partials/rexvs_settings.php:338
+msgid "Advanced Settings"
+msgstr ""
+
+#: admin/partials/rexvs_settings.php:53
+msgid "Auto Convert All Variation Dropdowns to Button Swatch by Default"
+msgstr ""
+
+#: admin/partials/rexvs_settings.php:246
+msgid "Border Enable/Disable:"
+msgstr ""
+
+#: admin/partials/rexvs_settings.php:266
+msgid "Border:"
+msgstr ""
+
+#: admin/class-rex-variation-swatches-for-woocommerce-admin-product.php:136
+msgid "Cancel"
+msgstr ""
+
+#: admin/class-rex-variation-swatches-for-woocommerce-admin.php:124
+msgid "Choose an image"
+msgstr ""
+
+#: admin/class-rex-variation-swatches-for-woocommerce-admin-product.php:147
+#: includes/class-rex-variation-swatches-for-woocommerce.php:84
+msgid "Color"
+msgstr ""
+
+#: admin/partials/rexvs_settings.php:73
+msgid "Delete all plugin data on plugin uninstall."
+msgstr ""
+
+#: admin/partials/rexvs_settings.php:57
+msgid "Delete data on plugin uninstall:"
+msgstr ""
+
+#: admin/partials/rexvs_settings.php:77
+msgid "Disable default plugin stylesheet:"
+msgstr ""
+
+#: admin/partials/rexvs_settings.php:37
+msgid "Dropdowns to Button Swatch:"
+msgstr ""
+
+#: admin/partials/rexvs_settings.php:24
+msgid "General"
+msgstr ""
+
+#: admin/partials/rexvs_settings.php:31
+msgid "General Settings"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://rextheme.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://rextheme.com/variation-swatches-for-woocommerce/"
+msgstr ""
+
+#: admin/class-rex-variation-swatches-for-woocommerce-admin-product.php:154
+#: includes/class-rex-variation-swatches-for-woocommerce.php:85
+msgid "Image"
+msgstr ""
+
+#: admin/class-rex-variation-swatches-for-woocommerce-admin-product.php:169
+#: includes/class-rex-variation-swatches-for-woocommerce.php:86
+msgid "Label"
+msgstr ""
+
+#: admin/class-rex-variation-swatches-for-woocommerce-admin-product.php:118
+msgid "Name"
+msgstr ""
+
+#: admin/class-rex-variation-swatches-for-woocommerce-admin-product.php:69
+msgid "Not enough data"
+msgstr ""
+
+#: admin/partials/rexvs_settings.php:93
+msgid "Option to enable/disable default plugin stylesheet for theme developer"
+msgstr ""
+
+#: admin/partials/rexvs_settings.php:342
+msgid "Premium feature comming soon."
+msgstr ""
+
+#: admin/class-rex-variation-swatches-for-woocommerce-admin-product.php:161
+#: admin/class-rex-variation-swatches-for-woocommerce-admin.php:213
+msgid "Remove image"
+msgstr ""
+
+#. Name of the plugin
+msgid "Rex Variation Swatches for WooCommerce"
+msgstr ""
+
+#. Author of the plugin
+msgid "RexTheme"
+msgstr ""
+
+#: admin/class-rex-variation-swatches-for-woocommerce-admin-product.php:46
+msgid "Select all"
+msgstr ""
+
+#: admin/class-rex-variation-swatches-for-woocommerce-admin-product.php:47
+msgid "Select none"
+msgstr ""
+
+#: admin/class-rex-variation-swatches-for-woocommerce-admin-product.php:35
+msgid "Select terms"
+msgstr ""
+
+#: admin/partials/rexvs_settings.php:314
+msgid "Selected Swatches Color:"
+msgstr ""
+
+#: admin/partials/rexvs_settings.php:299
+msgid "Selected Swatches Style"
+msgstr ""
+
+#: admin/partials/rexvs_settings.php:188
+msgid "Shape Height: "
+msgstr ""
+
+#: admin/partials/rexvs_settings.php:156
+msgid "Shape Style: "
+msgstr ""
+
+#: admin/partials/rexvs_settings.php:200
+msgid "Shape Width: "
+msgstr ""
+
+#: admin/class-rex-variation-swatches-for-woocommerce-admin-product.php:124
+msgid "Slug"
+msgstr ""
+
+#: admin/partials/rexvs_settings.php:224
+msgid "Swatches Background Color: "
+msgstr ""
+
+#: admin/partials/rexvs_settings.php:235
+msgid "Swatches Color:"
+msgstr ""
+
+#: admin/partials/rexvs_settings.php:212
+msgid "Swatches Font Size: "
+msgstr ""
+
+#: admin/class-rex-variation-swatches-for-woocommerce-admin-product.php:73
+msgid "Taxonomy is not exists"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This is a short description of what the plugin does. It's displayed in the "
+"WordPress admin area."
+msgstr ""
+
+#: admin/class-rex-variation-swatches-for-woocommerce-admin-product.php:77
+msgid "This term is exists"
+msgstr ""
+
+#: admin/partials/rexvs_settings.php:144
+msgid "Tooltip Background Color: "
+msgstr ""
+
+#: admin/partials/rexvs_settings.php:97
+msgid "Tooltip Enable/Disable:"
+msgstr ""
+
+#: admin/partials/rexvs_settings.php:118
+msgid "Tooltip Font Size:"
+msgstr ""
+
+#: admin/partials/rexvs_settings.php:131
+msgid "Tooltip Text Color: "
+msgstr ""
+
+#: admin/class-rex-variation-swatches-for-woocommerce-admin-product.php:160
+#: admin/class-rex-variation-swatches-for-woocommerce-admin.php:212
+msgid "Upload/Add image"
+msgstr ""
+
+#: admin/class-rex-variation-swatches-for-woocommerce-admin.php:125
+msgid "Use image"
+msgstr ""
+
+#: admin/class-rex-variation-swatches-for-woocommerce-admin-product.php:65
+msgid "Wrong request"
+msgstr ""
